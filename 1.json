@@ -1,0 +1,15 @@
+{
+  "name": "FI.FI.creation #1",
+  "description": "frases en imagenes NFT collection",
+  "image": "https://raw.githubusercontent.com/crizarodi/colect4nft/main/1.png",
+  "dna": "c46e4a8f00436412c610f578051147f41e4c6fa5",
+  "edition": 1,
+  "date": 1652204776374,
+  "attributes": [
+    {
+      "trait_type": "imagen",
+      "value": "Screenshot079"
+    }
+  ],
+  "compiler": "CRZR"
+}
